@@ -1,2 +1,2 @@
-# LABx_JEE
-Revision of my JEE Sills
+# MERN stack User Management
+ MongoDB-Express.js-React-Node.js User Management App
